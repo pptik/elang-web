@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9641192f-2c76-453d-a81f-fadd99e33992" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/assets/fian tentara asoy.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/app/Http/Controllers/CMap.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/resources/assets/images/cuaca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/resources/assets/images/nelayan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/resources/views/tes-map.blade.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/app/Http/Kernel.php" afterPath="$PROJECT_DIR$/main/app/Http/Kernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/app/Http/routes.php" afterPath="$PROJECT_DIR$/main/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/artisan" afterPath="$PROJECT_DIR$/main/artisan" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/composer.json" afterPath="$PROJECT_DIR$/main/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/composer.lock" afterPath="$PROJECT_DIR$/main/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/config/app.php" afterPath="$PROJECT_DIR$/main/config/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/config/database.php" afterPath="$PROJECT_DIR$/main/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/accordion.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/accordion.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/accordion.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/accordion.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/breadcrumb.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/breadcrumb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/breadcrumb.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/breadcrumb.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/button.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/button.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/button.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/button.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/card.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/card.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/card.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/card.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/checkbox.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/checkbox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/checkbox.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/checkbox.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/comment.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/comment.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/comment.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/comment.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/dimmer.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/dimmer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/dimmer.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/dimmer.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/divider.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/divider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/divider.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/divider.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/dropdown.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/dropdown.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/dropdown.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/dropdown.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/feed.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/feed.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/feed.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/feed.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/flag.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/flag.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/flag.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/flag.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/form.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/form.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/form.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/form.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/grid.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/grid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/grid.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/grid.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/header.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/header.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/header.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/header.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/icon.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/icon.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/icon.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/icon.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/image.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/image.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/image.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/image.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/input.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/input.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/input.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/input.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/item.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/item.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/item.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/item.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/label.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/label.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/label.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/label.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/list.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/list.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/list.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/list.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/loader.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/loader.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/loader.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/loader.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/menu.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/menu.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/menu.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/menu.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/message.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/message.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/message.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/message.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/modal.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/modal.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/modal.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/modal.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/nag.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/nag.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/nag.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/nag.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/popup.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/popup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/popup.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/popup.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/progress.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/progress.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/progress.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/progress.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/rail.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/rail.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/rail.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/rail.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/rating.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/rating.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/rating.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/rating.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/reset.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/reset.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/reset.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/reveal.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/reveal.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/reveal.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/reveal.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/search.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/search.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/search.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/search.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/segment.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/segment.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/segment.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/segment.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/shape.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/shape.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/shape.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/shape.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/sidebar.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/sidebar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/sidebar.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/sidebar.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/site.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/site.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/site.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/site.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/statistic.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/statistic.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/statistic.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/statistic.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/step.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/step.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/step.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/step.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/sticky.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/sticky.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/sticky.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/sticky.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/tab.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/tab.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/tab.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/tab.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/table.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/table.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/table.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/table.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/transition.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/transition.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/transition.min.css" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/dist/components/transition.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/breadcrumb.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/breadcrumb.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/form.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/form.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/grid.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/grid.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/menu.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/menu.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/message.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/message.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/table.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/collections/table.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/button.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/button.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/divider.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/divider.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/flag.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/flag.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/header.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/header.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/icon.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/icon.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/image.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/image.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/input.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/input.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/label.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/label.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/list.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/loader.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/loader.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/rail.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/rail.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/reveal.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/reveal.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/segment.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/segment.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/step.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/elements/step.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/globals/reset.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/globals/reset.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/globals/site.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/globals/site.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/accordion.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/accordion.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/checkbox.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/checkbox.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/dimmer.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/dimmer.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/dropdown.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/dropdown.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/modal.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/modal.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/nag.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/nag.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/popup.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/popup.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/progress.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/progress.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/rating.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/rating.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/search.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/search.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/shape.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/shape.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/sidebar.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/sidebar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/sticky.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/sticky.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/tab.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/tab.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/transition.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/transition.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/views/card.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/views/card.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/views/comment.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/views/comment.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/views/feed.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/views/feed.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/views/item.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/views/item.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/views/statistic.less" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/views/statistic.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/theme.config" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/theme.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/assets/semantic/src/themes/default/modules/checkbox.variables" afterPath="$PROJECT_DIR$/main/resources/assets/semantic/src/themes/default/modules/checkbox.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/views/index.blade.php" afterPath="$PROJECT_DIR$/main/resources/views/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/resources/views/templates/template.blade.php" afterPath="$PROJECT_DIR$/main/resources/views/templates/template.blade.php" />
+    </list>
+    <ignored path="nelayan.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="nelayan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/resources/views/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="70" column="98" lean-forward="false" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="98" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1501221852348" expanded="true" signature="10956:11027" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leaflet.draw.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/resources/assets/Leaflet.draw/src/Leaflet.draw.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CInformasi.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/app/Http/Controllers/CInformasi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1241">
+              <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <folding>
+                <marker date="1491202185680" expanded="true" signature="168:177" ph="..." />
+                <marker date="1491202185680" expanded="true" signature="3582:3589" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMap.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/app/Http/Controllers/CMap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="67" column="9" lean-forward="false" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/theme.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/theme.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" column="67" lean-forward="false" selection-start-line="59" selection-start-column="67" selection-end-line="59" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.variables" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/themes/default/globals/site.variables">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2533">
+              <caret line="149" column="32" lean-forward="false" selection-start-line="149" selection-start-column="28" selection-end-line="149" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/resources/views/templates/template.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkbox.variables" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/themes/default/modules/checkbox.variables">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2210">
+              <caret line="130" column="39" lean-forward="false" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nela</find>
+      <find>idun</find>
+      <find>blits</find>
+      <find>idu</find>
+      <find>gpstracersmarker</find>
+      <find>gpstracersLayer</find>
+      <find>mapbox</find>
+      <find>tracer.pn</find>
+      <find>map Se</find>
+      <find>pop</find>
+      <find>l.con</find>
+      <find>leaflet</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main/vendor/laravel/framework/src/Illuminate/Auth/Console/MakeAuthCommand.php" />
+        <option value="$PROJECT_DIR$/main/resources/views/tes-map.blade.php" />
+        <option value="$PROJECT_DIR$/main/resources/assets/semantic/dist/semantic.css" />
+        <option value="$PROJECT_DIR$/main/app/Http/Controllers/CInformasi.php" />
+        <option value="$PROJECT_DIR$/main/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/main/config/cas.php" />
+        <option value="$PROJECT_DIR$/main/.env" />
+        <option value="$PROJECT_DIR$/main/config/app.php" />
+        <option value="$PROJECT_DIR$/main/config/database.php" />
+        <option value="$PROJECT_DIR$/main/resources/assets/semantic/src/theme.config" />
+        <option value="$PROJECT_DIR$/main/resources/assets/semantic/src/themes/default/modules/checkbox.variables" />
+        <option value="$PROJECT_DIR$/main/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/main/resources/views/templates/template.blade.php" />
+        <option value="$PROJECT_DIR$/main/app/Http/Controllers/CMap.php" />
+        <option value="$PROJECT_DIR$/main/resources/views/index.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1376" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leaflet.draw" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leaflet.draw" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="routes&#9;FILE&#9;file:///Applications/MAMP/htdocs/nelayan/main/app/Http/routes.php&#10;app.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/nelayan/main/config/app.php&#10;kernel.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/nelayan/main/app/Http/Kernel.php&#10;app.&#9;FILE&#9;file:///Applications/MAMP/htdocs/nelayan/main/config/app.php&#10;.env&#9;FILE&#9;file:///Applications/MAMP/htdocs/nelayan/main/.env&#10;cinfo&#9;FILE&#9;file:///Applications/MAMP/htdocs/nelayan/main/app/Http/Controllers/CInformasi.php&#10;tem&#9;FILE&#9;file:///Applications/MAMP/htdocs/nelayan/main/resources/views/templates/template.blade.php&#10;database&#9;FILE&#9;file:///Applications/MAMP/htdocs/nelayan/main/config/database.php&#10;cinf&#9;null&#9;null&#10;seman&#9;FILE&#9;file:///Applications/MAMP/htdocs/nelayan/main/resources/assets/semantic/dist/semantic.css" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../htdocs4" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\main\resources\assets" />
+      <recent name="C:\xampp\htdocs\main\app\Http\Controllers" />
+      <recent name="C:\xampp\htdocs\main\resources\views" />
+      <recent name="$PROJECT_DIR$/main/resources/assets/images/markers" />
+      <recent name="$PROJECT_DIR$/main/resources/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/resources/assets/images/markers" />
+      <recent name="$PROJECT_DIR$/main/resources/assets/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9641192f-2c76-453d-a81f-fadd99e33992" name="Default" comment="" />
+      <created>1477905031380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477905031380</updated>
+      <workItem from="1477905032731" duration="11955000" />
+      <workItem from="1477953787019" duration="594000" />
+      <workItem from="1478075795596" duration="570000" />
+      <workItem from="1478213341315" duration="14853000" />
+      <workItem from="1478387595988" duration="628000" />
+      <workItem from="1478401121821" duration="12705000" />
+      <workItem from="1479082062044" duration="220000" />
+      <workItem from="1486372368451" duration="4442000" />
+      <workItem from="1486950670940" duration="45000" />
+      <workItem from="1491022647677" duration="16977000" />
+      <workItem from="1491190444170" duration="10677000" />
+      <workItem from="1501135697078" duration="11603000" />
+      <workItem from="1501214684726" duration="2527000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update ke -1">
+      <created>1478241001609</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1478241001609</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87796000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25075987" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23076923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31592688" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update ke -1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update ke -1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/main/config/cas.php</url>
+          <line>99</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="81" lean-forward="false" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/tes-map.blade.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/views/templates/template.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/Controllers/CInformasi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="71" column="63" lean-forward="false" selection-start-line="71" selection-start-column="63" selection-end-line="71" selection-end-column="63" />
+          <folding>
+            <marker date="1491202185680" expanded="true" signature="168:177" ph="..." />
+            <marker date="1491202185680" expanded="true" signature="3582:3589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/images/markers/weather-marker.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/tes-map.blade.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/views/templates/template.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/Controllers/CInformasi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="45" column="62" lean-forward="false" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
+          <folding>
+            <marker date="1491202185680" expanded="true" signature="168:177" ph="..." />
+            <marker date="1491202185680" expanded="true" signature="3582:3589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/templates/template.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="18" lean-forward="false" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/Controllers/CInformasi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="45" column="62" lean-forward="false" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
+          <folding>
+            <marker date="1491202185680" expanded="true" signature="168:177" ph="..." />
+            <marker date="1491202185680" expanded="true" signature="3582:3589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/templates/template.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/Controllers/CInformasi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="34" column="61" lean-forward="false" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+          <folding>
+            <marker date="1491202185680" expanded="true" signature="168:177" ph="..." />
+            <marker date="1491202185680" expanded="true" signature="3582:3589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/templates/template.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/site/views/ad.overrides">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/vendor/laravel/framework/src/Illuminate/Auth/Console/MakeAuthCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/images/cuaca.png" />
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/images/nelayan.png" />
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/images/markers/keadaan-laut-marker.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/images/markers/criminal-marker.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/images/markers/weather-marker.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="81" lean-forward="false" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/config/cas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="99" column="82" lean-forward="false" selection-start-line="99" selection-start-column="82" selection-end-line="99" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="158" column="57" lean-forward="false" selection-start-line="158" selection-start-column="57" selection-end-line="158" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="87" column="39" lean-forward="false" selection-start-line="87" selection-start-column="39" selection-end-line="87" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/tes-map.blade.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/views/index2.blade.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/dist/semantic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="17702" column="31" lean-forward="false" selection-start-line="17702" selection-start-column="31" selection-end-line="17702" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/checkbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="683" column="28" lean-forward="false" selection-start-line="683" selection-start-column="27" selection-end-line="683" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/modules/checkbox.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="115" column="20" lean-forward="false" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/semantic.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-791">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/globals/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/definitions/globals/reset.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/theme.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="67" lean-forward="false" selection-start-line="59" selection-start-column="67" selection-end-line="59" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/themes/default/globals/site.variables">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="32" lean-forward="false" selection-start-line="149" selection-start-column="28" selection-end-line="149" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/theme.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/Controllers/CInformasi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <marker date="1491202185680" expanded="true" signature="168:177" ph="..." />
+            <marker date="1491202185680" expanded="true" signature="3582:3589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/semantic/src/themes/default/modules/checkbox.variables">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="39" lean-forward="false" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/templates/template.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/Controllers/CMap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="67" column="9" lean-forward="false" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/Leaflet.draw/src/Leaflet.draw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="70" column="98" lean-forward="false" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="98" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1501221852348" expanded="true" signature="10956:11027" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
